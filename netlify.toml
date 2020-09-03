@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "https://5f4da26af0854f285472d90a--suspicious-boyd-fced16.netlify.app/*"
-  to = "https://sleepy-hollows-70516.herokuapp.com/:splat"
-  status = 200
-  force = true

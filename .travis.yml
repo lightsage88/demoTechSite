@@ -1,7 +1,2 @@
 language: node_js
 node_js: node
-deploy:
-  provider: netlify
-  site: a57217a9-e590-44a5-a627-1a23338177cf
-  auth: 5e29022a77153e1692703a316f5415751e3f546d12384ce6a40a2e33f206485f
-  edge: true
